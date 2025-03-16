@@ -45,24 +45,6 @@ Defines the **Player** entity with attributes like:
 - **Avoids duplicates**, ensuring data integrity.
 - **Optimized filtering methods** for better performance.
 
-## How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/playsphere-ipl.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd playsphere-ipl
-   ```
-3. Compile the Java files:
-   ```sh
-   javac -d bin src/com/playsphere/*.java
-   ```
-4. Run the application:
-   ```sh
-   java -cp bin com.playsphere.Main
-   ```
-
 ## Technologies Used
 - **Java (Core Collections - Set Framework)**
 - **OOP Principles**
